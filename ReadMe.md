@@ -110,6 +110,8 @@ Creating a ranking report for multiple locations. Selecting variables, assigning
 
 ###Apply a Symbology to the New Variable
 
+###Format Labels for Symbolized Variable
+
 ###Prepare the Businesses Table in Excel
 
 ###Add the Edited Businesses Table to the Map Document
@@ -121,6 +123,8 @@ Creating a ranking report for multiple locations. Selecting variables, assigning
 ###Spatial Join the Demographic Data to the Business Data
 
 ###Apply Symbology to the Business Data
+
+###Add a Basemap from ArcGIS Online
 
 ##Layout Mode
 
